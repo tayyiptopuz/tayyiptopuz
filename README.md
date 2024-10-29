@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @tayyiptopuz
-- 👀 I’m interested in data science.
 - 📫 How to reach me tayyiptopuz@gmail.com
 
 <!---
